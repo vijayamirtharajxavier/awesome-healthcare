@@ -185,6 +185,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Integration
   * [FHIR Converter](https://github.com/microsoft/FHIR-Converter) - an open source project that enables conversion of health data from legacy formats to FHIR.
   * [Google HCLS Data Harmonization](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) - an engine that converts data of one structure to another
+  * [HL7 Sender](https://github.com/vijayamirtharajxavier/hl7-message-tcp-sender-multiple-os-supported) - cross-platform desktop app and CLI for testing HL7 v2 interfaces over MLLP, with a durable queue, ACK matching and a mock receiver.
   * [NextGen Connect Integration Engine](https://github.com/nextgenhealthcare/connect) - The swiss army knife of healthcare integration.
   * [Open eHealth Integration Platform](https://github.com/oehf/ipf) - An extension of the Apache Camel routing and mediation engine
   * [OpenHIM](http://openhim.org/) - Health information mediator.
